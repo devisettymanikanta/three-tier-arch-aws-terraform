@@ -1,2 +1,2 @@
 # three-tier-arch-aws-terraform
-Need to create three tier arch in aws using terraform
+Provision three tier architecture on AWS using Terraform
